@@ -1,0 +1,57 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+
+.hero-image {
+  border-radius: 20px;              /* Smooth corners */
+  box-shadow: 0 25px 50px rgba(0,0,0,0.25); /* Depth */
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+
+   /* border-radius: 30px;
+  border: 8px solid #111; */
+}
+
+
+.hero-image:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 40px 70px rgba(0,0,0,0.35);
+}
+
+/* .image-wrapper {
+  padding: 20px;
+  border-radius: 24px;
+  background: linear-gradient(135deg, #ff7a18, #ffb347);
+} */
+
+
+@media (min-width: 992px) {
+  .hero-image {
+    max-width: 90%;
+  }
+}
