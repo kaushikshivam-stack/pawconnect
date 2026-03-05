@@ -31,34 +31,6 @@ The project focuses on clean UI, responsiveness, and real-world startup-style la
 
 ---
 
-## 🧠 What I Learned
-
-Building real-world landing pages using Bootstrap
-Responsive layout with Bootstrap grid system
-Organizing project folders professionally
-Using reusable UI components (cards, buttons, sections)
-Writing clean and structured HTML
-
----
-
-## 🌱 Future Improvements
-
-🔐 Login / Signup UI
-🐕 Dog profile cards
-🔍 Search & filter functionality
-📱 Dark / Light mode toggle
-🌐 Backend integration
-
----
-
-## 👤 Author
-
-Shivam Kaushik
-GitHub: https://github.com/kaushikshivam-stack
-LinkedIn: linkedin.com/in/shivam-kaushik-2980023b2
-
----
-
 ## ⭐ Support
 
 If you like this project:
