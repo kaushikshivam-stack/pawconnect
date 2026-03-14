@@ -30,6 +30,20 @@ The project focuses on clean UI, responsiveness, and real-world startup-style la
 - **Google Fonts**
 
 ---
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](Screenshot1.png)
+
+### Dark Mode
+![Dark Mode](dark-mode.png)
+
+### Light Mode
+![Light Mode](light-mode.png)
+
+### Calculator Working
+![Calculator Working](working.png)
+
 
 ## ⭐ Support
 
