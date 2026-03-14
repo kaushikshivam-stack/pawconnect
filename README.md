@@ -35,14 +35,14 @@ The project focuses on clean UI, responsiveness, and real-world startup-style la
 ### Home Page
 ![Home Page](Screenshot1.png)
 
-### Dark Mode
-![Dark Mode](Screenshot2.png)
+### Blog Page
+![Blog Page](Screenshot2.png)
 
-### Services / Features Page
-![Services / Features Page](Screenshot3.png)
+### About Page
+![About Page](Screenshot3.png)
 
-### Footer Page
-![Footer Page](Screenshot4.png)
+### Services Page
+![Services Page](Screenshot4.png)
 
 
 ## ⭐ Support
